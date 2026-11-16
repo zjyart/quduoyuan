@@ -10,13 +10,13 @@
 
 Mac 2.3.31 预览版使用临时签名，尚未完成 Apple 公证，macOS 可能阻止打开。iPhone TestFlight 尚未开放。
 
-![去多远 App 首页和春日花路插画，显示开始行程、按油费或时间探索入口](assets/intro/20-welcome.png)
+![去多远 App 首页和春日花路插画，显示开始行程、按油费或时间探索入口](assets/intro/graphic/20-welcome.png)
 
 ## 从出发到算清
 
 **直接算油费。** 已知里程时，输入路程、百公里油耗和每升油价即可计算。图中单程 30 公里，按油耗 7.5 L/100 km、示例油价 **8.00 元/升** 计算，预计油费 **18.00 元**。
 
-![去多远以单程 30 公里、示例油价 8.00 元/升计算，预计单程油费 18.00 元](assets/intro/16-known-distance-fuel-price.png)
+![去多远以单程 30 公里、示例油价 8.00 元/升计算，预计单程油费 18.00 元](assets/intro/graphic/16-known-distance-fuel-price.png)
 
 | 按油费或时间探索 | 比较驾车路线 |
 | :--- | :--- |
@@ -37,11 +37,11 @@ Mac 2.3.31 预览版使用临时签名，尚未完成 Apple 公证，macOS 可�
 
 | 里昂 · 汇流博物馆到金头公园 | 台北 · 从信义区去故宫 |
 | :--- | :--- |
-| [<img src="assets/intro/06-lyon.png" alt="里昂汇流博物馆到金头公园罗讷门，驾车路线 5.58 公里" width="440">](assets/intro/06-lyon.png) | [<img src="assets/intro/08-taipei.png" alt="台北 101 到台北故宫博物院，驾车路线 9.80 公里" width="440">](assets/intro/08-taipei.png) |
+| [<img src="assets/intro/graphic/06-lyon.png" alt="里昂汇流博物馆到金头公园罗讷门，驾车路线 5.58 公里" width="440">](assets/intro/graphic/06-lyon.png) | [<img src="assets/intro/graphic/08-taipei.png" alt="台北 101 到台北故宫博物院，驾车路线 9.80 公里" width="440">](assets/intro/graphic/08-taipei.png) |
 
 | 巴黎 · 沿塞纳河去卢浮宫 | 旧金山 · 开过金门大桥 |
 | :--- | :--- |
-| [<img src="assets/intro/09-paris.png" alt="埃菲尔铁塔到卢浮宫，驾车路线 4.31 公里" width="440">](assets/intro/09-paris.png) | [<img src="assets/intro/11-san-francisco.png" alt="艺术宫到金门大桥北观景台，驾车路线 6.09 公里" width="440">](assets/intro/11-san-francisco.png) |
+| [<img src="assets/intro/graphic/09-paris.png" alt="埃菲尔铁塔到卢浮宫，驾车路线 4.31 公里" width="440">](assets/intro/graphic/09-paris.png) | [<img src="assets/intro/graphic/11-san-francisco.png" alt="艺术宫到金门大桥北观景台，驾车路线 6.09 公里" width="440">](assets/intro/graphic/11-san-francisco.png) |
 
 底图由 [OpenFreeMap](https://openfreemap.org/) 提供，© [OpenMapTiles](https://openmaptiles.org/) · 数据 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright)。路线由 [FOSSGIS / OSRM](https://routing.openstreetmap.de/about.html) 计算。[纠正地图](https://www.openstreetmap.org/fixthemap)
 

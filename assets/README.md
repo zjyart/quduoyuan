@@ -4,9 +4,9 @@
 
 | 图片 | 内容 |
 | --- | --- |
-| [春日花路与欢迎页](intro/20-welcome.png) | 去多远 2.3.31 欢迎页与品牌插画。 |
-| [已知里程估算](intro/16-known-distance-fuel-price.png) | 去多远 2.3.31 网页界面的里程录入与结果。以 8.00 元/升估算单程油费。 |
-| [里昂](intro/06-lyon.png) · [台北](intro/08-taipei.png) · [巴黎](intro/09-paris.png) · [旧金山](intro/11-san-francisco.png) | 真实地点之间的驾车路线，使用开放地图制作的介绍图。 |
+| [春日花路与欢迎页](intro/graphic/20-welcome.png) | 去多远 2.3.31 欢迎页与品牌插画。 |
+| [已知里程估算](intro/graphic/16-known-distance-fuel-price.png) | 用去多远 2.3.31 实测数值绘制的计算流程。以 8.00 元/升估算单程油费。 |
+| [里昂](intro/graphic/06-lyon.png) · [台北](intro/graphic/08-taipei.png) · [巴黎](intro/graphic/09-paris.png) · [旧金山](intro/graphic/11-san-francisco.png) | 真实地点之间的驾车路线，使用开放地图制作的介绍图。 |
 
 四张地图使用 [OpenFreeMap](https://openfreemap.org/) 和 © [OpenMapTiles](https://openmaptiles.org/) 底图，地图数据 © [OpenStreetMap contributors（ODbL）](https://www.openstreetmap.org/copyright)，路线由 [FOSSGIS / OSRM](https://routing.openstreetmap.de/about.html) 计算。[纠正地图](https://www.openstreetmap.org/fixthemap)
 
