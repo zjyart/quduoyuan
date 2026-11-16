@@ -6,9 +6,15 @@
 | --- | --- |
 | [春日花路与欢迎页](intro/graphic/20-welcome.png) | 去多远 2.3.31 欢迎页与品牌插画。 |
 | [已知里程估算](intro/graphic/16-known-distance-fuel-price.png) | 用去多远 2.3.31 实测数值绘制的计算流程。以 8.00 元/升估算单程油费。 |
-| [里昂](intro/graphic/06-lyon.png) · [台北](intro/graphic/08-taipei.png) · [巴黎](intro/graphic/09-paris.png) · [旧金山](intro/graphic/11-san-francisco.png) | 真实地点之间的驾车路线，使用开放地图制作的介绍图。 |
+| [车辆与油价](intro/graphic/18-vehicle-and-fuel.png) | 按车型设置油耗、油品和实际加油单价。 |
+| [收藏地点](intro/graphic/21-saved-places.png) · [精确选入口](intro/graphic/22-choose-entrance.png) | 收藏常去地点，以及在搜索后选择具体停车场入口的功能图解。 |
+| [昼夜欢迎插画](intro/graphic/25-welcome-art.png) | 智能切换中的白天和夜间插画。 |
+| [香港](intro/graphic/07-hong-kong.png) · [台北](intro/graphic/08-taipei.png) · [大阪](intro/graphic/24-osaka.png) | 使用开放地图绘制的驾车路线。 |
+| [里昂](intro/graphic/06-lyon.png) · [巴黎](intro/graphic/09-paris.png) · [里斯本](intro/graphic/10-lisbon.png) · [旧金山](intro/graphic/11-san-francisco.png) | 使用开放地图绘制的驾车路线。 |
 
-四张地图使用 [OpenFreeMap](https://openfreemap.org/) 和 © [OpenMapTiles](https://openmaptiles.org/) 底图，地图数据 © [OpenStreetMap contributors（ODbL）](https://www.openstreetmap.org/copyright)，路线由 [FOSSGIS / OSRM](https://routing.openstreetmap.de/about.html) 计算。[纠正地图](https://www.openstreetmap.org/fixthemap)
+七张地图使用 [OpenFreeMap](https://openfreemap.org/) 和 © [OpenMapTiles](https://openmaptiles.org/) 底图，地图数据 © [OpenStreetMap contributors（ODbL）](https://www.openstreetmap.org/copyright)，路线由 [FOSSGIS / OSRM](https://routing.openstreetmap.de/about.html) 计算。[纠正地图](https://www.openstreetmap.org/fixthemap)
+
+地点图解使用公开地标。[杭州奥体中心体育场](https://www.hzzx.gov.cn/cshz/content/2022-04/06/content_8219229.htm) · [西溪湿地文二西路北门停车场](https://auto.hangzhou.com.cn/reading/content/content_7851479.html)
 
 ## 产品截图
 
