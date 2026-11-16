@@ -2,9 +2,9 @@
 
 ## Mac
 
-Mac 安装包开放后，请在 [GitHub Releases](https://github.com/zjyart/quduoyuan/releases) 选择 Mac 版本，核对系统与芯片要求，下载 `.dmg` 和同名 `.sha256.txt`。打开磁盘映像，将「去多远」拖到「应用程序」，再从「应用程序」打开。
+从[Mac 预览版发行页](https://github.com/zjyart/quduoyuan/releases/tag/mac-v2.3.31-preview.1)查看系统与芯片要求，下载 `.dmg` 和同名 `.sha256.txt`。预览版使用临时签名，尚未完成 Apple 公证，macOS 可能阻止打开。
 
-两个文件下载到同一目录后，可在终端切换到该目录，按发行页给出的校验命令检查 SHA-256。若提示校验失败，或 macOS 无法验证开发者，请暂停安装并[反馈](../SUPPORT.md)。
+两个文件下载到同一目录后，可在终端切换到该目录，按发行页给出的命令检查 SHA-256。校验通过且 macOS 允许打开后，将磁盘映像里的「去多远」拖到「应用程序」，再从那里打开。遇到校验失败或系统拦截时，可以[反馈问题](../SUPPORT.md)。
 
 ## iPhone
 

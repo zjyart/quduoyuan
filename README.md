@@ -6,9 +6,9 @@
 
 输入里程就能估算油费。连接地图后，可以比较驾车路线，或用一笔预算、一段时间看看大概能到哪里。
 
-[查看下载状态](https://github.com/zjyart/quduoyuan/releases) · [开始使用](docs/getting-started.md) · [反馈问题](SUPPORT.md)
+[下载 Mac 预览版](https://github.com/zjyart/quduoyuan/releases/tag/mac-v2.3.31-preview.1) · [开始使用](docs/getting-started.md) · [反馈问题](SUPPORT.md)
 
-Mac 独立安装包待发布。iPhone TestFlight 尚未开放。
+Mac 2.3.31 预览版使用临时签名，尚未完成 Apple 公证，macOS 可能阻止打开。iPhone TestFlight 尚未开放。
 
 ![Mac 版按里程估算油费，示例为 30 公里、¥18.00](assets/mac-trip-estimate.png)
 
