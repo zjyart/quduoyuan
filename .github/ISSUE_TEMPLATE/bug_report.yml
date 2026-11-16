@@ -4,8 +4,8 @@ body:
   - type: markdown
     attributes:
       value: |
-        此表单是公开的。请勿填写真实住址、精确坐标、地图凭证或未脱敏的行程。
-        涉及安全和个人隐私，请使用仓库 Security 中的私下反馈入口。
+        能访问仓库的人可以看到你提交的问题。请勿填写真实住址、精确坐标、地图凭证或未脱敏的行程。
+        涉及安全和个人隐私，请查看仓库的 Security 指引。
   - type: input
     id: environment
     attributes:

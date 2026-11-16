@@ -4,16 +4,15 @@
 
 **出发前，先算这趟的油费。**
 
-选起点和目的地，估算开车要花多少油费；知道里程时，可以直接算。还没决定去哪儿，可以用一笔油费预算或一段空闲时间，在地图上看看大概能到哪里。
+输入里程就能估算油费。连接地图后，可以比较驾车路线，或用一笔预算、一段时间看看大概能到哪里。
 
-| 平台 | 当前状态 |
-| --- | --- |
-| Mac | 独立 DMG 准备中。通过签名、公证与安装验证后，在本仓库的 Releases 提供。 |
-| iPhone | TestFlight 准备中。开放测试后再提供邀请入口。 |
+[查看下载状态](https://github.com/zjyart/quduoyuan/releases) · [开始使用](docs/getting-started.md) · [反馈问题](SUPPORT.md)
+
+Mac 独立安装包待发布。iPhone TestFlight 尚未开放。
 
 ![Mac 版按里程估算油费，示例为 30 公里、¥18.00](assets/mac-trip-estimate.png)
 
-*Mac 版实拍，使用测试里程和油价。*
+*Mac 版实拍。示例为单程 30 公里、百公里油耗 7.5 升、油价 8 元/升，预计油费 18 元。*
 
 ## 可以做什么
 
@@ -24,6 +23,6 @@
 
 实际开销会随车况、路况和油价变化。地图探索的边界是估算，用于出发前参考。应用需要联网核验发行状态；核验通过后，已知里程的油费计算不需要连接地图。
 
-[开始使用](docs/getting-started.md) · [常见问题](docs/faq.md) · [隐私说明](docs/privacy.md) · [问题反馈](SUPPORT.md) · [版本记录](CHANGELOG.md)
+[常见问题](docs/faq.md) · [隐私说明](docs/privacy.md) · [版本记录](CHANGELOG.md)
 
 本仓库用于发布「去多远」的安装包、说明和版本记录。应用不按开源许可发布。GitHub 在 Releases 自动生成的 `Source code` ZIP 和 TAR 是这个发行仓库的归档。安装 Mac 版时请选择 Releases 的 `.dmg` 附件。详见[权利与第三方组件说明](NOTICE.txt)。
